@@ -41,6 +41,7 @@
 		<module>adapter</module>
 		<module>bridge</module>
         <module>factory</module>
+        <module>abstractfactory</module>
     </modules>
 
 </project>
