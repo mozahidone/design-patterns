@@ -40,6 +40,7 @@
 	<modules>
 		<module>adapter</module>
 		<module>bridge</module>
-	</modules>
+        <module>factory</module>
+    </modules>
 
 </project>
