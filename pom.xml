@@ -43,6 +43,7 @@
         <module>factory</module>
         <module>abstractfactory</module>
         <module>memento</module>
+        <module>state</module>
     </modules>
 
 </project>
