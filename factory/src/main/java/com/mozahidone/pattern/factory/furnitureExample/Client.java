@@ -1,4 +1,4 @@
-package com.mozahidone.pattern.factory;
+package com.mozahidone.pattern.factory.furnitureExample;
 
 public class Client {
 

@@ -1,4 +1,4 @@
-package com.mozahidone.pattern.factory.state;
+package com.mozahidone.pattern.state.drawingExample;
 
 public class BrushIcon implements Tool {
     @Override
@@ -8,6 +8,6 @@ public class BrushIcon implements Tool {
 
     @Override
     public void mouseUp() {
-        System.out.println("");
+        System.out.println("Brushing the circle");
     }
 }

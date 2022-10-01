@@ -1,4 +1,4 @@
-package com.mozahidone.pattern.factory.state;
+package com.mozahidone.pattern.state.drawingExample;
 
 public interface Tool {
     void mouseDown();
