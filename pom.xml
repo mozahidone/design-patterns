@@ -35,6 +35,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+		</dependency>
 	</dependencies>
 
 	<modules>
@@ -44,6 +49,7 @@
         <module>abstractfactory</module>
         <module>memento</module>
         <module>state</module>
+        <module>facade</module>
     </modules>
 
 </project>
