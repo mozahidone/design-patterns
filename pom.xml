@@ -50,6 +50,7 @@
         <module>memento</module>
         <module>state</module>
         <module>facade</module>
-    </modules>
+		<module>iterator</module>
+	</modules>
 
 </project>
