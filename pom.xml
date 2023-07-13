@@ -51,6 +51,7 @@
         <module>state</module>
         <module>facade</module>
 		<module>iterator</module>
+		<module>strategy</module>
 	</modules>
 
 </project>
